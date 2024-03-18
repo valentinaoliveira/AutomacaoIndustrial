@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #FFC0CB; /* Cor de fundo rosa claro */
+}
+
+.navbar {
+    background-color: #FFD1DC; /* Uma tonalidade um pouco mais escura de rosa para contraste */
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.navbar span {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: white; /* Fundo branco para as seções para melhor leitura */
+    border-radius: 8px; /* Bordas arredondadas para as seções */
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Sombra sutil para as seções */
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #FFD1DC; /* Mesma cor da navbar para consistência */
+}
+
